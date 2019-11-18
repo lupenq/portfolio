@@ -483,3 +483,7 @@ input[id$="4"]:checked ~ .slider__inner .slider__slides {
 .contact__file-input {
     display: none;
 }
+
+.social__link {
+    text-decoration: none;
+}
